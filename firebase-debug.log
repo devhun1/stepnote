@@ -1,0 +1,51 @@
+[debug] [2025-11-09T14:40:38.752Z] ----------------------------------------------------------------------
+[debug] [2025-11-09T14:40:38.755Z] Command:       /nix/store/ws50yvm6vzlzf7jzz6n7xh4szddrack1-nodejs-20.19.1/bin/node /nix/store/f77kilzcw5hh2gidh22k6pj8cp7pxp7h-firebase-tools-14.22.0/lib/node_modules/firebase-tools/lib/bin/firebase.js login:ci
+[debug] [2025-11-09T14:40:38.755Z] CLI Version:   14.22.0
+[debug] [2025-11-09T14:40:38.755Z] Platform:      linux
+[debug] [2025-11-09T14:40:38.756Z] Node Version:  v20.19.1
+[debug] [2025-11-09T14:40:38.756Z] Time:          Sun Nov 09 2025 14:40:38 GMT+0000 (Coordinated Universal Time)
+[debug] [2025-11-09T14:40:38.756Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-11-09T14:40:39.150Z] No OAuth tokens found
+[debug] [2025-11-09T14:40:39.151Z] No OAuth tokens found
+[error] Failed to fetch Firebase Project from current Studio Workspace: Unable to refresh auth: not yet authenticated.
+[warn] ⚠  Authenticating with a `login:ci` token is deprecated and will be removed in a future major version of `firebase-tools`. Instead, use a service account key with `GOOGLE_APPLICATION_CREDENTIALS`: https://cloud.google.com/docs/authentication/getting-started 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=41051748&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2025-11-09T14:43:40.648Z] ----------------------------------------------------------------------
+[debug] [2025-11-09T14:43:40.650Z] Command:       /nix/store/ws50yvm6vzlzf7jzz6n7xh4szddrack1-nodejs-20.19.1/bin/node /nix/store/f77kilzcw5hh2gidh22k6pj8cp7pxp7h-firebase-tools-14.22.0/lib/node_modules/firebase-tools/lib/bin/firebase.js login:ci
+[debug] [2025-11-09T14:43:40.650Z] CLI Version:   14.22.0
+[debug] [2025-11-09T14:43:40.650Z] Platform:      linux
+[debug] [2025-11-09T14:43:40.650Z] Node Version:  v20.19.1
+[debug] [2025-11-09T14:43:40.650Z] Time:          Sun Nov 09 2025 14:43:40 GMT+0000 (Coordinated Universal Time)
+[debug] [2025-11-09T14:43:40.651Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-11-09T14:43:41.012Z] No OAuth tokens found
+[debug] [2025-11-09T14:43:41.013Z] No OAuth tokens found
+[error] Failed to fetch Firebase Project from current Studio Workspace: Unable to refresh auth: not yet authenticated.
+[warn] ⚠  Authenticating with a `login:ci` token is deprecated and will be removed in a future major version of `firebase-tools`. Instead, use a service account key with `GOOGLE_APPLICATION_CREDENTIALS`: https://cloud.google.com/docs/authentication/getting-started 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=707181046&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2025-11-09T14:43:59.226Z] ----------------------------------------------------------------------
+[debug] [2025-11-09T14:43:59.228Z] Command:       /nix/store/ws50yvm6vzlzf7jzz6n7xh4szddrack1-nodejs-20.19.1/bin/node /nix/store/f77kilzcw5hh2gidh22k6pj8cp7pxp7h-firebase-tools-14.22.0/lib/node_modules/firebase-tools/lib/bin/firebase.js login:ci
+[debug] [2025-11-09T14:43:59.228Z] CLI Version:   14.22.0
+[debug] [2025-11-09T14:43:59.229Z] Platform:      linux
+[debug] [2025-11-09T14:43:59.229Z] Node Version:  v20.19.1
+[debug] [2025-11-09T14:43:59.229Z] Time:          Sun Nov 09 2025 14:43:59 GMT+0000 (Coordinated Universal Time)
+[debug] [2025-11-09T14:43:59.229Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-11-09T14:43:59.573Z] No OAuth tokens found
+[debug] [2025-11-09T14:43:59.574Z] No OAuth tokens found
+[error] Failed to fetch Firebase Project from current Studio Workspace: Unable to refresh auth: not yet authenticated.
+[warn] ⚠  Authenticating with a `login:ci` token is deprecated and will be removed in a future major version of `firebase-tools`. Instead, use a service account key with `GOOGLE_APPLICATION_CREDENTIALS`: https://cloud.google.com/docs/authentication/getting-started 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=443541536&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
